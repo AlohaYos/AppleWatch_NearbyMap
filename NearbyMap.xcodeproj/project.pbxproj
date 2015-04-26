@@ -1,0 +1,859 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FF5B85481ACA9C9A002F068A /* arrow-0@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85241ACA9C9A002F068A /* arrow-0@2x.png */; };
+		FF5B85491ACA9C9A002F068A /* arrow-10@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85251ACA9C9A002F068A /* arrow-10@2x.png */; };
+		FF5B854A1ACA9C9A002F068A /* arrow-11@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85261ACA9C9A002F068A /* arrow-11@2x.png */; };
+		FF5B854B1ACA9C9A002F068A /* arrow-12@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85271ACA9C9A002F068A /* arrow-12@2x.png */; };
+		FF5B854C1ACA9C9A002F068A /* arrow-13@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85281ACA9C9A002F068A /* arrow-13@2x.png */; };
+		FF5B854D1ACA9C9A002F068A /* arrow-14@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85291ACA9C9A002F068A /* arrow-14@2x.png */; };
+		FF5B854E1ACA9C9A002F068A /* arrow-15@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B852A1ACA9C9A002F068A /* arrow-15@2x.png */; };
+		FF5B854F1ACA9C9A002F068A /* arrow-16@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B852B1ACA9C9A002F068A /* arrow-16@2x.png */; };
+		FF5B85501ACA9C9A002F068A /* arrow-17@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B852C1ACA9C9A002F068A /* arrow-17@2x.png */; };
+		FF5B85511ACA9C9A002F068A /* arrow-18@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B852D1ACA9C9A002F068A /* arrow-18@2x.png */; };
+		FF5B85521ACA9C9A002F068A /* arrow-19@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B852E1ACA9C9A002F068A /* arrow-19@2x.png */; };
+		FF5B85531ACA9C9A002F068A /* arrow-1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B852F1ACA9C9A002F068A /* arrow-1@2x.png */; };
+		FF5B85541ACA9C9A002F068A /* arrow-20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85301ACA9C9A002F068A /* arrow-20@2x.png */; };
+		FF5B85551ACA9C9A002F068A /* arrow-21@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85311ACA9C9A002F068A /* arrow-21@2x.png */; };
+		FF5B85561ACA9C9A002F068A /* arrow-22@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85321ACA9C9A002F068A /* arrow-22@2x.png */; };
+		FF5B85571ACA9C9A002F068A /* arrow-23@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85331ACA9C9A002F068A /* arrow-23@2x.png */; };
+		FF5B85581ACA9C9A002F068A /* arrow-24@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85341ACA9C9A002F068A /* arrow-24@2x.png */; };
+		FF5B85591ACA9C9A002F068A /* arrow-25@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85351ACA9C9A002F068A /* arrow-25@2x.png */; };
+		FF5B855A1ACA9C9A002F068A /* arrow-26@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85361ACA9C9A002F068A /* arrow-26@2x.png */; };
+		FF5B855B1ACA9C9A002F068A /* arrow-27@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85371ACA9C9A002F068A /* arrow-27@2x.png */; };
+		FF5B855C1ACA9C9A002F068A /* arrow-28@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85381ACA9C9A002F068A /* arrow-28@2x.png */; };
+		FF5B855D1ACA9C9A002F068A /* arrow-29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85391ACA9C9A002F068A /* arrow-29@2x.png */; };
+		FF5B855E1ACA9C9A002F068A /* arrow-2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B853A1ACA9C9A002F068A /* arrow-2@2x.png */; };
+		FF5B855F1ACA9C9A002F068A /* arrow-30@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B853B1ACA9C9A002F068A /* arrow-30@2x.png */; };
+		FF5B85601ACA9C9A002F068A /* arrow-31@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B853C1ACA9C9A002F068A /* arrow-31@2x.png */; };
+		FF5B85611ACA9C9A002F068A /* arrow-32@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B853D1ACA9C9A002F068A /* arrow-32@2x.png */; };
+		FF5B85621ACA9C9A002F068A /* arrow-33@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B853E1ACA9C9A002F068A /* arrow-33@2x.png */; };
+		FF5B85631ACA9C9A002F068A /* arrow-34@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B853F1ACA9C9A002F068A /* arrow-34@2x.png */; };
+		FF5B85641ACA9C9A002F068A /* arrow-35@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85401ACA9C9A002F068A /* arrow-35@2x.png */; };
+		FF5B85651ACA9C9A002F068A /* arrow-3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85411ACA9C9A002F068A /* arrow-3@2x.png */; };
+		FF5B85661ACA9C9A002F068A /* arrow-4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85421ACA9C9A002F068A /* arrow-4@2x.png */; };
+		FF5B85671ACA9C9A002F068A /* arrow-5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85431ACA9C9A002F068A /* arrow-5@2x.png */; };
+		FF5B85681ACA9C9A002F068A /* arrow-6@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85441ACA9C9A002F068A /* arrow-6@2x.png */; };
+		FF5B85691ACA9C9A002F068A /* arrow-7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85451ACA9C9A002F068A /* arrow-7@2x.png */; };
+		FF5B856A1ACA9C9A002F068A /* arrow-8@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85461ACA9C9A002F068A /* arrow-8@2x.png */; };
+		FF5B856B1ACA9C9A002F068A /* arrow-9@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF5B85471ACA9C9A002F068A /* arrow-9@2x.png */; };
+		FF6230411AC9FFC00017CA15 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FF6230401AC9FFC00017CA15 /* main.m */; };
+		FF6230441AC9FFC00017CA15 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FF6230431AC9FFC00017CA15 /* AppDelegate.m */; };
+		FF6230471AC9FFC00017CA15 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FF6230461AC9FFC00017CA15 /* ViewController.m */; };
+		FF62304A1AC9FFC00017CA15 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF6230481AC9FFC00017CA15 /* Main.storyboard */; };
+		FF62304C1AC9FFC00017CA15 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF62304B1AC9FFC00017CA15 /* Images.xcassets */; };
+		FF62304F1AC9FFC00017CA15 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FF62304D1AC9FFC00017CA15 /* LaunchScreen.xib */; };
+		FF62305B1AC9FFC10017CA15 /* NearbyMapTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FF62305A1AC9FFC10017CA15 /* NearbyMapTests.m */; };
+		FF62306E1AC9FFDF0017CA15 /* InterfaceController.m in Sources */ = {isa = PBXBuildFile; fileRef = FF62306D1AC9FFDF0017CA15 /* InterfaceController.m */; };
+		FF6230701AC9FFDF0017CA15 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF62306F1AC9FFDF0017CA15 /* Images.xcassets */; };
+		FF6230741AC9FFDF0017CA15 /* NearbyMap WatchKit App.app in Resources */ = {isa = PBXBuildFile; fileRef = FF6230731AC9FFDF0017CA15 /* NearbyMap WatchKit App.app */; };
+		FF62307C1AC9FFDF0017CA15 /* Interface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF62307A1AC9FFDF0017CA15 /* Interface.storyboard */; };
+		FF62307E1AC9FFDF0017CA15 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF62307D1AC9FFDF0017CA15 /* Images.xcassets */; };
+		FF6230811AC9FFDF0017CA15 /* NearbyMap WatchKit Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = FF6230681AC9FFDF0017CA15 /* NearbyMap WatchKit Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		FF62308A1ACA00050017CA15 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FF6230891ACA00050017CA15 /* MapKit.framework */; };
+		FF62308D1ACA00AC0017CA15 /* AuthCheckInterfaceController.m in Sources */ = {isa = PBXBuildFile; fileRef = FF62308C1ACA00AC0017CA15 /* AuthCheckInterfaceController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		FF6230551AC9FFC10017CA15 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FF6230331AC9FFC00017CA15 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FF62303A1AC9FFC00017CA15;
+			remoteInfo = NearbyMap;
+		};
+		FF6230751AC9FFDF0017CA15 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FF6230331AC9FFC00017CA15 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FF6230721AC9FFDF0017CA15;
+			remoteInfo = "NearbyMap WatchKit App";
+		};
+		FF62307F1AC9FFDF0017CA15 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FF6230331AC9FFC00017CA15 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FF6230671AC9FFDF0017CA15;
+			remoteInfo = "NearbyMap WatchKit Extension";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		FF6230881AC9FFDF0017CA15 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				FF6230811AC9FFDF0017CA15 /* NearbyMap WatchKit Extension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		FF5B85241ACA9C9A002F068A /* arrow-0@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-0@2x.png"; sourceTree = "<group>"; };
+		FF5B85251ACA9C9A002F068A /* arrow-10@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-10@2x.png"; sourceTree = "<group>"; };
+		FF5B85261ACA9C9A002F068A /* arrow-11@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-11@2x.png"; sourceTree = "<group>"; };
+		FF5B85271ACA9C9A002F068A /* arrow-12@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-12@2x.png"; sourceTree = "<group>"; };
+		FF5B85281ACA9C9A002F068A /* arrow-13@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-13@2x.png"; sourceTree = "<group>"; };
+		FF5B85291ACA9C9A002F068A /* arrow-14@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-14@2x.png"; sourceTree = "<group>"; };
+		FF5B852A1ACA9C9A002F068A /* arrow-15@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-15@2x.png"; sourceTree = "<group>"; };
+		FF5B852B1ACA9C9A002F068A /* arrow-16@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-16@2x.png"; sourceTree = "<group>"; };
+		FF5B852C1ACA9C9A002F068A /* arrow-17@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-17@2x.png"; sourceTree = "<group>"; };
+		FF5B852D1ACA9C9A002F068A /* arrow-18@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-18@2x.png"; sourceTree = "<group>"; };
+		FF5B852E1ACA9C9A002F068A /* arrow-19@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-19@2x.png"; sourceTree = "<group>"; };
+		FF5B852F1ACA9C9A002F068A /* arrow-1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-1@2x.png"; sourceTree = "<group>"; };
+		FF5B85301ACA9C9A002F068A /* arrow-20@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-20@2x.png"; sourceTree = "<group>"; };
+		FF5B85311ACA9C9A002F068A /* arrow-21@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-21@2x.png"; sourceTree = "<group>"; };
+		FF5B85321ACA9C9A002F068A /* arrow-22@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-22@2x.png"; sourceTree = "<group>"; };
+		FF5B85331ACA9C9A002F068A /* arrow-23@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-23@2x.png"; sourceTree = "<group>"; };
+		FF5B85341ACA9C9A002F068A /* arrow-24@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-24@2x.png"; sourceTree = "<group>"; };
+		FF5B85351ACA9C9A002F068A /* arrow-25@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-25@2x.png"; sourceTree = "<group>"; };
+		FF5B85361ACA9C9A002F068A /* arrow-26@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-26@2x.png"; sourceTree = "<group>"; };
+		FF5B85371ACA9C9A002F068A /* arrow-27@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-27@2x.png"; sourceTree = "<group>"; };
+		FF5B85381ACA9C9A002F068A /* arrow-28@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-28@2x.png"; sourceTree = "<group>"; };
+		FF5B85391ACA9C9A002F068A /* arrow-29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-29@2x.png"; sourceTree = "<group>"; };
+		FF5B853A1ACA9C9A002F068A /* arrow-2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-2@2x.png"; sourceTree = "<group>"; };
+		FF5B853B1ACA9C9A002F068A /* arrow-30@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-30@2x.png"; sourceTree = "<group>"; };
+		FF5B853C1ACA9C9A002F068A /* arrow-31@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-31@2x.png"; sourceTree = "<group>"; };
+		FF5B853D1ACA9C9A002F068A /* arrow-32@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-32@2x.png"; sourceTree = "<group>"; };
+		FF5B853E1ACA9C9A002F068A /* arrow-33@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-33@2x.png"; sourceTree = "<group>"; };
+		FF5B853F1ACA9C9A002F068A /* arrow-34@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-34@2x.png"; sourceTree = "<group>"; };
+		FF5B85401ACA9C9A002F068A /* arrow-35@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-35@2x.png"; sourceTree = "<group>"; };
+		FF5B85411ACA9C9A002F068A /* arrow-3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-3@2x.png"; sourceTree = "<group>"; };
+		FF5B85421ACA9C9A002F068A /* arrow-4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-4@2x.png"; sourceTree = "<group>"; };
+		FF5B85431ACA9C9A002F068A /* arrow-5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-5@2x.png"; sourceTree = "<group>"; };
+		FF5B85441ACA9C9A002F068A /* arrow-6@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-6@2x.png"; sourceTree = "<group>"; };
+		FF5B85451ACA9C9A002F068A /* arrow-7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-7@2x.png"; sourceTree = "<group>"; };
+		FF5B85461ACA9C9A002F068A /* arrow-8@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-8@2x.png"; sourceTree = "<group>"; };
+		FF5B85471ACA9C9A002F068A /* arrow-9@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-9@2x.png"; sourceTree = "<group>"; };
+		FF62303B1AC9FFC00017CA15 /* NearbyMap.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NearbyMap.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF62303F1AC9FFC00017CA15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FF6230401AC9FFC00017CA15 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		FF6230421AC9FFC00017CA15 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		FF6230431AC9FFC00017CA15 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		FF6230451AC9FFC00017CA15 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		FF6230461AC9FFC00017CA15 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		FF6230491AC9FFC00017CA15 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FF62304B1AC9FFC00017CA15 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		FF62304E1AC9FFC00017CA15 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		FF6230541AC9FFC10017CA15 /* NearbyMapTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NearbyMapTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF6230591AC9FFC10017CA15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FF62305A1AC9FFC10017CA15 /* NearbyMapTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NearbyMapTests.m; sourceTree = "<group>"; };
+		FF6230681AC9FFDF0017CA15 /* NearbyMap WatchKit Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "NearbyMap WatchKit Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF62306B1AC9FFDF0017CA15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FF62306C1AC9FFDF0017CA15 /* InterfaceController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InterfaceController.h; sourceTree = "<group>"; };
+		FF62306D1AC9FFDF0017CA15 /* InterfaceController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InterfaceController.m; sourceTree = "<group>"; };
+		FF62306F1AC9FFDF0017CA15 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		FF6230731AC9FFDF0017CA15 /* NearbyMap WatchKit App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "NearbyMap WatchKit App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF6230791AC9FFDF0017CA15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FF62307B1AC9FFDF0017CA15 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Interface.storyboard; sourceTree = "<group>"; };
+		FF62307D1AC9FFDF0017CA15 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		FF6230891ACA00050017CA15 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		FF62308B1ACA00AC0017CA15 /* AuthCheckInterfaceController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AuthCheckInterfaceController.h; sourceTree = "<group>"; };
+		FF62308C1ACA00AC0017CA15 /* AuthCheckInterfaceController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AuthCheckInterfaceController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FF6230381AC9FFC00017CA15 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FF6230511AC9FFC10017CA15 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FF6230651AC9FFDF0017CA15 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FF62308A1ACA00050017CA15 /* MapKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FF5B85221ACA9C9A002F068A /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				FF5B85231ACA9C9A002F068A /* arrow */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		FF5B85231ACA9C9A002F068A /* arrow */ = {
+			isa = PBXGroup;
+			children = (
+				FF5B85241ACA9C9A002F068A /* arrow-0@2x.png */,
+				FF5B852F1ACA9C9A002F068A /* arrow-1@2x.png */,
+				FF5B853A1ACA9C9A002F068A /* arrow-2@2x.png */,
+				FF5B85411ACA9C9A002F068A /* arrow-3@2x.png */,
+				FF5B85421ACA9C9A002F068A /* arrow-4@2x.png */,
+				FF5B85431ACA9C9A002F068A /* arrow-5@2x.png */,
+				FF5B85441ACA9C9A002F068A /* arrow-6@2x.png */,
+				FF5B85451ACA9C9A002F068A /* arrow-7@2x.png */,
+				FF5B85461ACA9C9A002F068A /* arrow-8@2x.png */,
+				FF5B85471ACA9C9A002F068A /* arrow-9@2x.png */,
+				FF5B85251ACA9C9A002F068A /* arrow-10@2x.png */,
+				FF5B85261ACA9C9A002F068A /* arrow-11@2x.png */,
+				FF5B85271ACA9C9A002F068A /* arrow-12@2x.png */,
+				FF5B85281ACA9C9A002F068A /* arrow-13@2x.png */,
+				FF5B85291ACA9C9A002F068A /* arrow-14@2x.png */,
+				FF5B852A1ACA9C9A002F068A /* arrow-15@2x.png */,
+				FF5B852B1ACA9C9A002F068A /* arrow-16@2x.png */,
+				FF5B852C1ACA9C9A002F068A /* arrow-17@2x.png */,
+				FF5B852D1ACA9C9A002F068A /* arrow-18@2x.png */,
+				FF5B852E1ACA9C9A002F068A /* arrow-19@2x.png */,
+				FF5B85301ACA9C9A002F068A /* arrow-20@2x.png */,
+				FF5B85311ACA9C9A002F068A /* arrow-21@2x.png */,
+				FF5B85321ACA9C9A002F068A /* arrow-22@2x.png */,
+				FF5B85331ACA9C9A002F068A /* arrow-23@2x.png */,
+				FF5B85341ACA9C9A002F068A /* arrow-24@2x.png */,
+				FF5B85351ACA9C9A002F068A /* arrow-25@2x.png */,
+				FF5B85361ACA9C9A002F068A /* arrow-26@2x.png */,
+				FF5B85371ACA9C9A002F068A /* arrow-27@2x.png */,
+				FF5B85381ACA9C9A002F068A /* arrow-28@2x.png */,
+				FF5B85391ACA9C9A002F068A /* arrow-29@2x.png */,
+				FF5B853B1ACA9C9A002F068A /* arrow-30@2x.png */,
+				FF5B853C1ACA9C9A002F068A /* arrow-31@2x.png */,
+				FF5B853D1ACA9C9A002F068A /* arrow-32@2x.png */,
+				FF5B853E1ACA9C9A002F068A /* arrow-33@2x.png */,
+				FF5B853F1ACA9C9A002F068A /* arrow-34@2x.png */,
+				FF5B85401ACA9C9A002F068A /* arrow-35@2x.png */,
+			);
+			path = arrow;
+			sourceTree = "<group>";
+		};
+		FF6230321AC9FFC00017CA15 = {
+			isa = PBXGroup;
+			children = (
+				FF6230891ACA00050017CA15 /* MapKit.framework */,
+				FF62303D1AC9FFC00017CA15 /* NearbyMap */,
+				FF6230571AC9FFC10017CA15 /* NearbyMapTests */,
+				FF6230691AC9FFDF0017CA15 /* NearbyMap WatchKit Extension */,
+				FF6230771AC9FFDF0017CA15 /* NearbyMap WatchKit App */,
+				FF62303C1AC9FFC00017CA15 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FF62303C1AC9FFC00017CA15 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FF62303B1AC9FFC00017CA15 /* NearbyMap.app */,
+				FF6230541AC9FFC10017CA15 /* NearbyMapTests.xctest */,
+				FF6230681AC9FFDF0017CA15 /* NearbyMap WatchKit Extension.appex */,
+				FF6230731AC9FFDF0017CA15 /* NearbyMap WatchKit App.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FF62303D1AC9FFC00017CA15 /* NearbyMap */ = {
+			isa = PBXGroup;
+			children = (
+				FF6230421AC9FFC00017CA15 /* AppDelegate.h */,
+				FF6230431AC9FFC00017CA15 /* AppDelegate.m */,
+				FF6230451AC9FFC00017CA15 /* ViewController.h */,
+				FF6230461AC9FFC00017CA15 /* ViewController.m */,
+				FF6230481AC9FFC00017CA15 /* Main.storyboard */,
+				FF62304B1AC9FFC00017CA15 /* Images.xcassets */,
+				FF62304D1AC9FFC00017CA15 /* LaunchScreen.xib */,
+				FF62303E1AC9FFC00017CA15 /* Supporting Files */,
+			);
+			path = NearbyMap;
+			sourceTree = "<group>";
+		};
+		FF62303E1AC9FFC00017CA15 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FF62303F1AC9FFC00017CA15 /* Info.plist */,
+				FF6230401AC9FFC00017CA15 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FF6230571AC9FFC10017CA15 /* NearbyMapTests */ = {
+			isa = PBXGroup;
+			children = (
+				FF62305A1AC9FFC10017CA15 /* NearbyMapTests.m */,
+				FF6230581AC9FFC10017CA15 /* Supporting Files */,
+			);
+			path = NearbyMapTests;
+			sourceTree = "<group>";
+		};
+		FF6230581AC9FFC10017CA15 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FF6230591AC9FFC10017CA15 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FF6230691AC9FFDF0017CA15 /* NearbyMap WatchKit Extension */ = {
+			isa = PBXGroup;
+			children = (
+				FF62306C1AC9FFDF0017CA15 /* InterfaceController.h */,
+				FF62306D1AC9FFDF0017CA15 /* InterfaceController.m */,
+				FF62308B1ACA00AC0017CA15 /* AuthCheckInterfaceController.h */,
+				FF62308C1ACA00AC0017CA15 /* AuthCheckInterfaceController.m */,
+				FF62306F1AC9FFDF0017CA15 /* Images.xcassets */,
+				FF62306A1AC9FFDF0017CA15 /* Supporting Files */,
+			);
+			path = "NearbyMap WatchKit Extension";
+			sourceTree = "<group>";
+		};
+		FF62306A1AC9FFDF0017CA15 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FF62306B1AC9FFDF0017CA15 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FF6230771AC9FFDF0017CA15 /* NearbyMap WatchKit App */ = {
+			isa = PBXGroup;
+			children = (
+				FF62307A1AC9FFDF0017CA15 /* Interface.storyboard */,
+				FF62307D1AC9FFDF0017CA15 /* Images.xcassets */,
+				FF5B85221ACA9C9A002F068A /* Assets */,
+				FF6230781AC9FFDF0017CA15 /* Supporting Files */,
+			);
+			path = "NearbyMap WatchKit App";
+			sourceTree = "<group>";
+		};
+		FF6230781AC9FFDF0017CA15 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FF6230791AC9FFDF0017CA15 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FF62303A1AC9FFC00017CA15 /* NearbyMap */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FF62305E1AC9FFC10017CA15 /* Build configuration list for PBXNativeTarget "NearbyMap" */;
+			buildPhases = (
+				FF6230371AC9FFC00017CA15 /* Sources */,
+				FF6230381AC9FFC00017CA15 /* Frameworks */,
+				FF6230391AC9FFC00017CA15 /* Resources */,
+				FF6230881AC9FFDF0017CA15 /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FF6230801AC9FFDF0017CA15 /* PBXTargetDependency */,
+			);
+			name = NearbyMap;
+			productName = NearbyMap;
+			productReference = FF62303B1AC9FFC00017CA15 /* NearbyMap.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FF6230531AC9FFC10017CA15 /* NearbyMapTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FF6230611AC9FFC10017CA15 /* Build configuration list for PBXNativeTarget "NearbyMapTests" */;
+			buildPhases = (
+				FF6230501AC9FFC10017CA15 /* Sources */,
+				FF6230511AC9FFC10017CA15 /* Frameworks */,
+				FF6230521AC9FFC10017CA15 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FF6230561AC9FFC10017CA15 /* PBXTargetDependency */,
+			);
+			name = NearbyMapTests;
+			productName = NearbyMapTests;
+			productReference = FF6230541AC9FFC10017CA15 /* NearbyMapTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		FF6230671AC9FFDF0017CA15 /* NearbyMap WatchKit Extension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FF6230851AC9FFDF0017CA15 /* Build configuration list for PBXNativeTarget "NearbyMap WatchKit Extension" */;
+			buildPhases = (
+				FF6230641AC9FFDF0017CA15 /* Sources */,
+				FF6230651AC9FFDF0017CA15 /* Frameworks */,
+				FF6230661AC9FFDF0017CA15 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FF6230761AC9FFDF0017CA15 /* PBXTargetDependency */,
+			);
+			name = "NearbyMap WatchKit Extension";
+			productName = "NearbyMap WatchKit Extension";
+			productReference = FF6230681AC9FFDF0017CA15 /* NearbyMap WatchKit Extension.appex */;
+			productType = "com.apple.product-type.watchkit-extension";
+		};
+		FF6230721AC9FFDF0017CA15 /* NearbyMap WatchKit App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FF6230821AC9FFDF0017CA15 /* Build configuration list for PBXNativeTarget "NearbyMap WatchKit App" */;
+			buildPhases = (
+				FF6230711AC9FFDF0017CA15 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "NearbyMap WatchKit App";
+			productName = "NearbyMap WatchKit App";
+			productReference = FF6230731AC9FFDF0017CA15 /* NearbyMap WatchKit App.app */;
+			productType = "com.apple.product-type.application.watchapp";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FF6230331AC9FFC00017CA15 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0620;
+				ORGANIZATIONNAME = "Newton Japan";
+				TargetAttributes = {
+					FF62303A1AC9FFC00017CA15 = {
+						CreatedOnToolsVersion = 6.2;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 0;
+							};
+						};
+					};
+					FF6230531AC9FFC10017CA15 = {
+						CreatedOnToolsVersion = 6.2;
+						TestTargetID = FF62303A1AC9FFC00017CA15;
+					};
+					FF6230671AC9FFDF0017CA15 = {
+						CreatedOnToolsVersion = 6.2;
+						SystemCapabilities = {
+							com.apple.Maps.iOS = {
+								enabled = 1;
+							};
+						};
+					};
+					FF6230721AC9FFDF0017CA15 = {
+						CreatedOnToolsVersion = 6.2;
+					};
+				};
+			};
+			buildConfigurationList = FF6230361AC9FFC00017CA15 /* Build configuration list for PBXProject "NearbyMap" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FF6230321AC9FFC00017CA15;
+			productRefGroup = FF62303C1AC9FFC00017CA15 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FF62303A1AC9FFC00017CA15 /* NearbyMap */,
+				FF6230531AC9FFC10017CA15 /* NearbyMapTests */,
+				FF6230671AC9FFDF0017CA15 /* NearbyMap WatchKit Extension */,
+				FF6230721AC9FFDF0017CA15 /* NearbyMap WatchKit App */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FF6230391AC9FFC00017CA15 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FF62304A1AC9FFC00017CA15 /* Main.storyboard in Resources */,
+				FF62304F1AC9FFC00017CA15 /* LaunchScreen.xib in Resources */,
+				FF62304C1AC9FFC00017CA15 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FF6230521AC9FFC10017CA15 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FF6230661AC9FFDF0017CA15 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FF6230741AC9FFDF0017CA15 /* NearbyMap WatchKit App.app in Resources */,
+				FF6230701AC9FFDF0017CA15 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FF6230711AC9FFDF0017CA15 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FF5B85481ACA9C9A002F068A /* arrow-0@2x.png in Resources */,
+				FF5B854D1ACA9C9A002F068A /* arrow-14@2x.png in Resources */,
+				FF5B855A1ACA9C9A002F068A /* arrow-26@2x.png in Resources */,
+				FF5B85681ACA9C9A002F068A /* arrow-6@2x.png in Resources */,
+				FF5B856B1ACA9C9A002F068A /* arrow-9@2x.png in Resources */,
+				FF5B85491ACA9C9A002F068A /* arrow-10@2x.png in Resources */,
+				FF5B855C1ACA9C9A002F068A /* arrow-28@2x.png in Resources */,
+				FF5B85611ACA9C9A002F068A /* arrow-32@2x.png in Resources */,
+				FF5B85601ACA9C9A002F068A /* arrow-31@2x.png in Resources */,
+				FF5B85591ACA9C9A002F068A /* arrow-25@2x.png in Resources */,
+				FF5B85521ACA9C9A002F068A /* arrow-19@2x.png in Resources */,
+				FF62307C1AC9FFDF0017CA15 /* Interface.storyboard in Resources */,
+				FF62307E1AC9FFDF0017CA15 /* Images.xcassets in Resources */,
+				FF5B855F1ACA9C9A002F068A /* arrow-30@2x.png in Resources */,
+				FF5B85511ACA9C9A002F068A /* arrow-18@2x.png in Resources */,
+				FF5B85691ACA9C9A002F068A /* arrow-7@2x.png in Resources */,
+				FF5B85581ACA9C9A002F068A /* arrow-24@2x.png in Resources */,
+				FF5B85551ACA9C9A002F068A /* arrow-21@2x.png in Resources */,
+				FF5B854A1ACA9C9A002F068A /* arrow-11@2x.png in Resources */,
+				FF5B856A1ACA9C9A002F068A /* arrow-8@2x.png in Resources */,
+				FF5B85541ACA9C9A002F068A /* arrow-20@2x.png in Resources */,
+				FF5B85631ACA9C9A002F068A /* arrow-34@2x.png in Resources */,
+				FF5B855B1ACA9C9A002F068A /* arrow-27@2x.png in Resources */,
+				FF5B85621ACA9C9A002F068A /* arrow-33@2x.png in Resources */,
+				FF5B854B1ACA9C9A002F068A /* arrow-12@2x.png in Resources */,
+				FF5B85571ACA9C9A002F068A /* arrow-23@2x.png in Resources */,
+				FF5B85651ACA9C9A002F068A /* arrow-3@2x.png in Resources */,
+				FF5B85661ACA9C9A002F068A /* arrow-4@2x.png in Resources */,
+				FF5B85671ACA9C9A002F068A /* arrow-5@2x.png in Resources */,
+				FF5B854C1ACA9C9A002F068A /* arrow-13@2x.png in Resources */,
+				FF5B854E1ACA9C9A002F068A /* arrow-15@2x.png in Resources */,
+				FF5B85561ACA9C9A002F068A /* arrow-22@2x.png in Resources */,
+				FF5B85641ACA9C9A002F068A /* arrow-35@2x.png in Resources */,
+				FF5B854F1ACA9C9A002F068A /* arrow-16@2x.png in Resources */,
+				FF5B85531ACA9C9A002F068A /* arrow-1@2x.png in Resources */,
+				FF5B855E1ACA9C9A002F068A /* arrow-2@2x.png in Resources */,
+				FF5B85501ACA9C9A002F068A /* arrow-17@2x.png in Resources */,
+				FF5B855D1ACA9C9A002F068A /* arrow-29@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FF6230371AC9FFC00017CA15 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FF6230471AC9FFC00017CA15 /* ViewController.m in Sources */,
+				FF6230441AC9FFC00017CA15 /* AppDelegate.m in Sources */,
+				FF6230411AC9FFC00017CA15 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FF6230501AC9FFC10017CA15 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FF62305B1AC9FFC10017CA15 /* NearbyMapTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FF6230641AC9FFDF0017CA15 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FF62308D1ACA00AC0017CA15 /* AuthCheckInterfaceController.m in Sources */,
+				FF62306E1AC9FFDF0017CA15 /* InterfaceController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		FF6230561AC9FFC10017CA15 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FF62303A1AC9FFC00017CA15 /* NearbyMap */;
+			targetProxy = FF6230551AC9FFC10017CA15 /* PBXContainerItemProxy */;
+		};
+		FF6230761AC9FFDF0017CA15 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FF6230721AC9FFDF0017CA15 /* NearbyMap WatchKit App */;
+			targetProxy = FF6230751AC9FFDF0017CA15 /* PBXContainerItemProxy */;
+		};
+		FF6230801AC9FFDF0017CA15 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FF6230671AC9FFDF0017CA15 /* NearbyMap WatchKit Extension */;
+			targetProxy = FF62307F1AC9FFDF0017CA15 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		FF6230481AC9FFC00017CA15 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FF6230491AC9FFC00017CA15 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		FF62304D1AC9FFC00017CA15 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FF62304E1AC9FFC00017CA15 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+		FF62307A1AC9FFDF0017CA15 /* Interface.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FF62307B1AC9FFDF0017CA15 /* Base */,
+			);
+			name = Interface.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		FF62305C1AC9FFC10017CA15 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		FF62305D1AC9FFC10017CA15 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FF62305F1AC9FFC10017CA15 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = NearbyMap/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		FF6230601AC9FFC10017CA15 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = NearbyMap/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		FF6230621AC9FFC10017CA15 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = NearbyMapTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NearbyMap.app/NearbyMap";
+			};
+			name = Debug;
+		};
+		FF6230631AC9FFC10017CA15 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = NearbyMapTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NearbyMap.app/NearbyMap";
+			};
+			name = Release;
+		};
+		FF6230831AC9FFDF0017CA15 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				IBSC_MODULE = NearbyMap_WatchKit_Extension;
+				INFOPLIST_FILE = "NearbyMap WatchKit App/Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 4;
+				"TARGETED_DEVICE_FAMILY[sdk=iphonesimulator*]" = "1,4";
+			};
+			name = Debug;
+		};
+		FF6230841AC9FFDF0017CA15 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				IBSC_MODULE = NearbyMap_WatchKit_Extension;
+				INFOPLIST_FILE = "NearbyMap WatchKit App/Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 4;
+				"TARGETED_DEVICE_FAMILY[sdk=iphonesimulator*]" = "1,4";
+			};
+			name = Release;
+		};
+		FF6230861AC9FFDF0017CA15 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "NearbyMap WatchKit Extension/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_NAME = "${TARGET_NAME}";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		FF6230871AC9FFDF0017CA15 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "NearbyMap WatchKit Extension/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_NAME = "${TARGET_NAME}";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FF6230361AC9FFC00017CA15 /* Build configuration list for PBXProject "NearbyMap" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FF62305C1AC9FFC10017CA15 /* Debug */,
+				FF62305D1AC9FFC10017CA15 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FF62305E1AC9FFC10017CA15 /* Build configuration list for PBXNativeTarget "NearbyMap" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FF62305F1AC9FFC10017CA15 /* Debug */,
+				FF6230601AC9FFC10017CA15 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FF6230611AC9FFC10017CA15 /* Build configuration list for PBXNativeTarget "NearbyMapTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FF6230621AC9FFC10017CA15 /* Debug */,
+				FF6230631AC9FFC10017CA15 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FF6230821AC9FFDF0017CA15 /* Build configuration list for PBXNativeTarget "NearbyMap WatchKit App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FF6230831AC9FFDF0017CA15 /* Debug */,
+				FF6230841AC9FFDF0017CA15 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FF6230851AC9FFDF0017CA15 /* Build configuration list for PBXNativeTarget "NearbyMap WatchKit Extension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FF6230861AC9FFDF0017CA15 /* Debug */,
+				FF6230871AC9FFDF0017CA15 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FF6230331AC9FFC00017CA15 /* Project object */;
+}

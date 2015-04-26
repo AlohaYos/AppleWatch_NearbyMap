@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder.WatchKit.Storyboard" version="3.0" toolsVersion="6751" systemVersion="14C1514" targetRuntime="watchKit" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="AgC-eL-Hgc">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6736"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBWatchKitPlugin" version="3737"/>
+    </dependencies>
+    <scenes>
+        <!--現在地-->
+        <scene sceneID="aou-V4-d1y">
+            <objects>
+                <controller title="現在地" id="AgC-eL-Hgc" customClass="InterfaceController">
+                    <items>
+                        <group width="1" height="0.80000000000000004" alignment="left" id="vOY-k7-gRT">
+                            <items>
+                                <map height="1" alignment="left" id="yaN-Ga-T9E"/>
+                            </items>
+                        </group>
+                        <group width="1" height="0.17999999999999999" alignment="left" id="dYy-Wx-12A">
+                            <items>
+                                <button width="0.5" height="1" alignment="left" title="-" id="Uyh-TF-YHx">
+                                    <color key="backgroundColor" red="0.25098040699958801" green="0.50196081399917603" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                    <fontDescription key="font" type="boldSystem" pointSize="15"/>
+                                    <connections>
+                                        <action selector="minusButtonPushed" destination="AgC-eL-Hgc" id="8en-Zq-eG4"/>
+                                    </connections>
+                                </button>
+                                <button width="0.5" height="1" alignment="left" title="+" id="kZW-lE-j3k">
+                                    <color key="backgroundColor" red="0.25098040699958801" green="0.50196081399917603" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                    <fontDescription key="font" type="boldSystem" pointSize="15"/>
+                                    <connections>
+                                        <action selector="plusButtonPushed" destination="AgC-eL-Hgc" id="3QR-Jb-RWb"/>
+                                    </connections>
+                                </button>
+                            </items>
+                        </group>
+                    </items>
+                    <menu key="menu" id="dwD-Q3-KI8">
+                        <items>
+                            <menuItem title="地図固定" icon="pause" id="RGZ-If-XfI">
+                                <connections>
+                                    <action selector="fixMap" destination="AgC-eL-Hgc" id="5ns-hk-Xnm"/>
+                                </connections>
+                            </menuItem>
+                            <menuItem title="マーカー固定" icon="block" id="CpS-ub-XOl">
+                                <connections>
+                                    <action selector="markerFix" destination="AgC-eL-Hgc" id="T8U-Rz-Vzy"/>
+                                </connections>
+                            </menuItem>
+                            <menuItem title="戻る" icon="decline" id="yuS-qD-9Ra"/>
+                        </items>
+                    </menu>
+                    <connections>
+                        <outlet property="mapView" destination="yaN-Ga-T9E" id="Mmz-2K-zMf"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="77" y="382"/>
+        </scene>
+        <!--AuthCheckInterfaceController-->
+        <scene sceneID="Ifc-a7-lA7">
+            <objects>
+                <controller identifier="AuthCheckInterfaceController" id="seh-CM-8ze" customClass="AuthCheckInterfaceController">
+                    <items>
+                        <group width="1" height="30" alignment="left" id="8l5-53-jXg"/>
+                        <group width="1" alignment="left" id="qwE-Ds-hzr">
+                            <items>
+                                <label alignment="left" text="iPhoneのNearbyMapアプリを起動して、位置情報の利用を許可してください" numberOfLines="5" id="Ntd-1Y-iKS">
+                                    <color key="textColor" red="1" green="0.50196081399917603" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                </label>
+                            </items>
+                        </group>
+                    </items>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="77" y="638"/>
+        </scene>
+    </scenes>
+</document>
